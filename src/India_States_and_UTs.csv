@@ -1,0 +1,37 @@
+region,x,y,region_type,capital
+Andhra Pradesh,-50,-107,State,Amaravati
+Arunachal Pradesh,175,118,State,Itanagar
+Assam,147,82,State,Dispur
+Bihar,46,65,State,Patna
+Chhattisgarh,-6,-3,State,Raipur
+Goa,-123,-99,State,Panaji
+Gujarat,-154,20,State,Gandhinagar
+Haryana,-87,118,State,Chandigarh
+Himachal Pradesh,-78,156,State,Shimla
+Jharkhand,38,31,State,Ranchi
+Karnataka,-92,-120,State,Bangalore
+Kerala,-89,-173,State,Thiruvananthapuram
+Madhya Pradesh,-59,31,State,Bhopal
+Maharashtra,-105,-35,State,Mumbai
+Manipur,163,55,State,Imphal
+Meghalaya,128,67,State,Shillong
+Mizoram,151,34,State,Aizawl
+Nagaland,172,80,State,Kohima
+Odisha,29,-15,State,Bhubaneswar
+Punjab,-103,135,State,Chandigarh
+Rajasthan,-142,70,State,Jaipur
+Sikkim,83,98,State,Gangtok
+Tamil Nadu,-61,-185,State,Chennai
+Telangana,-48,-61,State,Hyderabad
+Tripura,132,38,State,Agartala
+Uttar Pradesh,-32,78,State,Lucknow
+Uttarakhand,-46,133,State,Bhararisain
+West Bengal,73,24,State,Kolkata
+Andaman and Nicobar Islands,164,-132,Union Territory,Port Blair
+Chandigarh,-81,144,Union Territory,Chandigarh
+Dadra and Nagar Haveli and Daman and Diu,-137,-22,Union Territory,Daman
+Delhi,-77,109,Union Territory,New Delhi
+Jammu and Kashmir,-110,185,Union Territory,Srinagar
+Ladakh,-75,201,Union Territory,Leh
+Lakshadweep,-142,-190,Union Territory,Kavaratti
+Puducherry,-37,-152,Union Territory,Puducherry
